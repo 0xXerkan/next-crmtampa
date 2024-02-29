@@ -22,7 +22,7 @@ const Contact = () => {
                   <input type="hidden" name="_captcha" value="false" />
                   <input type="text" name="_honey" style={{display: 'none'}} />
                   {/* <!-- edit redirect location for production --> */}
-                  <input type="hidden" name="_next" value="https://www.crmtampa.com/thankyou.html" />
+                  <input type="hidden" name="_next" value="https://www.crmtampa.com/thankyou" />
 
 
                   <label htmlFor="name">Name</label>

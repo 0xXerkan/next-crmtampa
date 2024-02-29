@@ -2,7 +2,7 @@ import React from 'react'
 
 const Team = () => {
   return (
-    <section id="team" className="py-4 bg-dark text-light __crm-founders">
+    <section id="team" className="py-4 bg-black text-light __crm-founders">
       <div className="container">
         <h1 className="text-center mb-4 text-primary">Founders</h1>
         <div className="row text-center g-5">

@@ -9,7 +9,7 @@ export default function Home() {
       <Hero />
       <Services />
       <Mission />
-      <Analytics />
+      {/* <Analytics /> */}
       <Team />     
     </>
   )

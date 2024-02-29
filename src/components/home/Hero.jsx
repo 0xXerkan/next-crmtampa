@@ -53,8 +53,7 @@ const Hero = () => {
                     <span className='text-primary'>Space</span>, secure<br/>
                     your <span className='text-primary'>Life</span>
                   </h1>
-                  <p className="text-secondary">This agency, founded by former special operations soldiers and black water
-                    contractors, offers
+                  <p className="text-secondary">This agency, founded by former special operations soldiers and service disabled veterans, offers
                     executive protection with unmatched expertise and experience, utilizing data-driven analytics and AI large
                     language models to recruit the most qualified individuals for each assignment. With a focus on precision
                     and excellence, this company prioritizes safety and protection for high-value individuals and
