@@ -10,7 +10,7 @@ const Contact = () => {
             <div className='border-start border-light border-5 ps-3'>
               <div className='lead'><span className="fw-bold text-light">Mailing Address:</span> 7901 4th St N, Suite 300, St.
                 Petersburg, FL</div>
-              <div className='lead'><span className="fw-bold text-light">Phone:</span> (813)355-0809</div>
+              <div className='lead'><span className="fw-bold text-light">Phone:</span> (401) 588-2449</div>
               <div className='lead'><span className="fw-bold text-light">Email:</span> info@crmtampa.com</div>
             </div>
           </div>

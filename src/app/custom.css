@@ -34,6 +34,10 @@ body {
   z-index: 1;
 }
 
+.hero-text-shadow {
+  text-shadow: 2px 2px 2px black;
+}
+
 .nav-link {
   color: white;
 }

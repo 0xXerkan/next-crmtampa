@@ -31,7 +31,7 @@ const Navbar = () => {
             <li className="nav-item">
               <a href="#contact" className="nav-link">
                 <button className='btn btn-primary' type='button'>
-                  (813) 355-0809
+                  (401) 588-2449
                 </button>
               </a>
             </li>
